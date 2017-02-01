@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mDatabaseTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should Insert into Client[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should Insert into Department[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should Insert into Employee[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should Insert into Project[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should get Employee By ProjectID[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should get Employee By DepartmentID[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should delete from Employee[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should delete from Department[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should delete from Project[0m[0m
